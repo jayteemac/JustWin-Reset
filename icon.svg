@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#173d42"/><text x="256" y="295" text-anchor="middle" font-size="135" font-weight="bold" font-family="Arial" fill="#7be7c2">R90</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#090b0d"/>
+<path d="M75 100h95v212q0 93-100 93H38v-88h31q6 0 6-8z" fill="#f4f5f7"/>
+<path d="M184 102h91l37 143 42-143h89l-83 302h-92z" fill="#f4f5f7"/>
+<path d="M340 143l105-82 19 24-85 91 51-9-86 106 8-71z" fill="#baff00"/>
+</svg>
